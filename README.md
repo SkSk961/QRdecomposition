@@ -57,8 +57,8 @@ def QR_Decomposition(A):
     print('',Q)
 ```
 ## Output
+<img width="1180" height="582" alt="image" src="https://github.com/user-attachments/assets/bcbca2a3-6e64-4ea4-9fb4-0b8dfa815cea" />
 
-<img width="1020" height="411" alt="image" src="https://github.com/user-attachments/assets/fa0dacca-baf9-4c00-be00-fde60a95573a" />
 
 
 
